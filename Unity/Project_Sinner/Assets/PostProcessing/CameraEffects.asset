@@ -29,7 +29,7 @@ MonoBehaviour:
     m_Settings:
       excludeSkybox: 1
   antialiasing:
-    m_Enabled: 0
+    m_Enabled: 1
     m_Settings:
       method: 0
       fxaaSettings:
@@ -320,10 +320,10 @@ MonoBehaviour:
     m_Enabled: 0
     m_Settings:
       mode: 0
-      color: {r: 0, g: 0, b: 0, a: 1}
+      color: {r: 0.5305028, g: 0.5660378, b: 0.5259879, a: 1}
       center: {x: 0.5, y: 0.5}
-      intensity: 0.45
-      smoothness: 0.2
+      intensity: 0.44
+      smoothness: 0.24
       roundness: 1
       mask: {fileID: 0}
       opacity: 1
