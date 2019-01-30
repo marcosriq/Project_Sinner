@@ -18,6 +18,16 @@ ModelImporter:
     100024: External_Door.003
     100026: External_Door.004
     100028: External_Door.005
+    100030: Cube.001
+    100032: Cube.002
+    100034: Cylinder
+    100036: Cylinder.001
+    100038: Cylinder.014
+    100040: Door.006
+    100042: Plane
+    100044: Plane.002
+    100046: Plane.005
+    100048: Plane.006
     400000: //RootNode
     400002: Cylinder.003
     400004: Cylinder.031
@@ -33,7 +43,25 @@ ModelImporter:
     400024: External_Door.003
     400026: External_Door.004
     400028: External_Door.005
+    400030: Cube.001
+    400032: Cube.002
+    400034: Cylinder
+    400036: Cylinder.001
+    400038: Cylinder.014
+    400040: Door.006
+    400042: Plane
+    400044: Plane.002
+    400046: Plane.005
+    400048: Plane.006
     2100000: No Name
+    2100002: WoodenFloor
+    2100004: External_Wall
+    2100006: Kitchen_Wall
+    2100008: Room_Wall
+    2100010: Kitchen_Floor
+    2100012: Bathroom_Wall
+    2100014: External_Floor
+    2100016: Bathroom_Floor
     2300000: Cylinder.003
     2300002: Cylinder.031
     2300004: Door
@@ -48,6 +76,16 @@ ModelImporter:
     2300022: External_Door.003
     2300024: External_Door.004
     2300026: External_Door.005
+    2300028: Cube.001
+    2300030: Cube.002
+    2300032: Cylinder
+    2300034: Cylinder.001
+    2300036: Cylinder.014
+    2300038: Door.006
+    2300040: Plane
+    2300042: Plane.002
+    2300044: Plane.005
+    2300046: Plane.006
     3300000: Cylinder.003
     3300002: Cylinder.031
     3300004: Door
@@ -62,6 +100,16 @@ ModelImporter:
     3300022: External_Door.003
     3300024: External_Door.004
     3300026: External_Door.005
+    3300028: Cube.001
+    3300030: Cube.002
+    3300032: Cylinder
+    3300034: Cylinder.001
+    3300036: Cylinder.014
+    3300038: Door.006
+    3300040: Plane
+    3300042: Plane.002
+    3300044: Plane.005
+    3300046: Plane.006
     4300000: Cylinder.003
     4300002: Cylinder.031
     4300004: External_Door.005
@@ -76,12 +124,22 @@ ModelImporter:
     4300022: Door.002
     4300024: Door.001
     4300026: Door
+    4300028: Cylinder.001
+    4300030: Cylinder
+    4300032: Cylinder.014
+    4300034: Door.006
+    4300036: Plane.006
+    4300038: Plane.005
+    4300040: Plane.002
+    4300042: Plane
+    4300044: Cube.002
+    4300046: Cube.001
   externalObjects: {}
   materials:
     importMaterials: 1
     materialName: 0
     materialSearch: 1
-    materialLocation: 1
+    materialLocation: 0
   animations:
     legacyGenerateAnimations: 4
     bakeSimulation: 0
