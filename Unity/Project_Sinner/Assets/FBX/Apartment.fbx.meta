@@ -28,6 +28,7 @@ ModelImporter:
     100044: Plane.002
     100046: Plane.005
     100048: Plane.006
+    100050: Plane.001
     400000: //RootNode
     400002: Cylinder.003
     400004: Cylinder.031
@@ -53,6 +54,7 @@ ModelImporter:
     400044: Plane.002
     400046: Plane.005
     400048: Plane.006
+    400050: Plane.001
     2100000: No Name
     2100002: WoodenFloor
     2100004: External_Wall
@@ -86,6 +88,7 @@ ModelImporter:
     2300042: Plane.002
     2300044: Plane.005
     2300046: Plane.006
+    2300048: Plane.001
     3300000: Cylinder.003
     3300002: Cylinder.031
     3300004: Door
@@ -110,6 +113,7 @@ ModelImporter:
     3300042: Plane.002
     3300044: Plane.005
     3300046: Plane.006
+    3300048: Plane.001
     4300000: Cylinder.003
     4300002: Cylinder.031
     4300004: External_Door.005
@@ -134,7 +138,63 @@ ModelImporter:
     4300042: Plane
     4300044: Cube.002
     4300046: Cube.001
-  externalObjects: {}
+    4300048: Plane.001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bathroom_Floor
+    second: {fileID: 2100000, guid: 17a7e8ac198c9d44ba477b04a95a0657, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bathroom_Wall
+    second: {fileID: 2100000, guid: bf9dd6d8aedd8284aadb31a00f739478, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: External_Floor
+    second: {fileID: 2100000, guid: fbb10e3a61af79a4fb2961ff44a27c03, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: External_Wall
+    second: {fileID: 2100000, guid: eb4486b89a734a24b8d905b9366f4174, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen_Floor
+    second: {fileID: 2100000, guid: 0c387617ab4a09848b877255143a3379, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kitchen_Wall
+    second: {fileID: 2100000, guid: a21f9c8ba2a0eb34cbc2d30b4a956764, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: b4cbecea2141dec42a8b38b343b0a24b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Room_Wall
+    second: {fileID: 2100000, guid: 15d266db79e0e1a41887c18c532f9040, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WhiteDoorWay
+    second: {fileID: 2100000, guid: d592a0e15389f644caf490f1d7a2bb41, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodDoorWay
+    second: {fileID: 2100000, guid: 950e476a3624009419bdcc946aa8b930, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WoodenFloor
+    second: {fileID: 2100000, guid: 68ce4c6a2783e044da31b8b0ca64fed9, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
