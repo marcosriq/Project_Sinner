@@ -42,7 +42,7 @@ MonoBehaviour:
   ambientOcclusion:
     m_Enabled: 1
     m_Settings:
-      intensity: 0.4
+      intensity: 1
       radius: 0.3
       sampleCount: 10
       downsampling: 1
@@ -308,16 +308,16 @@ MonoBehaviour:
     m_Enabled: 1
     m_Settings:
       spectralTexture: {fileID: 0}
-      intensity: 0.4
+      intensity: 0.5
   grain:
     m_Enabled: 1
     m_Settings:
-      colored: 0
-      intensity: 0.43
+      colored: 1
+      intensity: 0.55
       size: 0.3
       luminanceContribution: 0.81
   vignette:
-    m_Enabled: 0
+    m_Enabled: 1
     m_Settings:
       mode: 0
       color: {r: 0.5305028, g: 0.5660378, b: 0.5259879, a: 1}
